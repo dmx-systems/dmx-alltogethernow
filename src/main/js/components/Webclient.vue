@@ -1,5 +1,5 @@
 <template>
-  <h1>Hello DMX Webclient!</h1>
+  <h1>All Together Now</h1>
 </template>
 
 <script>
