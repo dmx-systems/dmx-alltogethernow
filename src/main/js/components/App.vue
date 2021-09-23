@@ -35,7 +35,7 @@
   */
   --main-font-family: -apple-system, system-ui, Segoe UI, Roboto, Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue,
       sans-serif;
-  --main-font-size: 14px;
+  --main-font-size: 16px;
 }
 
 html {
